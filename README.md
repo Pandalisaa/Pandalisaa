@@ -158,6 +158,23 @@ I document what I learn — attack mechanisms, root-cause analysis, and remediat
 
 <br/>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
+
+<div align="center">
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</p>
+
+</div>
+
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=System.init(%22Pandalisaa%22);Security+Consultant+;Cybersecurity+Professional+;Welcome+to+the+matrix..." alt="Typing SVG" />
 </div>
