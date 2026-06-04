@@ -102,13 +102,7 @@ mindset: "Think like an attacker. Document like a defender."
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pandalisaa&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pandalisaa&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandalisaa&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=00FF41&text_color=C9D1D9)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pandalisaa&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pandalisaa&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true)
 
