@@ -102,14 +102,15 @@ mindset: "Think like an attacker. Document like a defender."
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pandalisaa&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="github stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=ananyadwivedi115&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pandalisaa&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyadwivedi115&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=00FF41&text_color=C9D1D9" alt="top langs"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Pandalisaa&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E)
 
-<img src="https://github-profile-trophy.vercel.app/?username=ananyadwivedi115&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%" alt="trophies"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandalisaa&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=00FF41&text_color=C9D1D9)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyadwivedi115&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" alt="activity graph"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Pandalisaa&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pandalisaa&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -163,9 +164,8 @@ I document what I learn — attack mechanisms, root-cause analysis, and remediat
 
 <br/>
 
-<!-- Snake eats the contribution graph — requires the GitHub Action workflow (shared with this README). -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ananyadwivedi115/ananyadwivedi115/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=System.init(%22Pandalisaa%22);Security+Consultant+;Cybersecurity+Professional+;Welcome+to+the+matrix..." alt="Typing SVG" />
 </div>
 
 <div align="center">
