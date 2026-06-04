@@ -21,7 +21,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=ananyadwivedi115&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/ananyadwivedi115?style=for-the-badge&logo=github&color=00FF41&labelColor=0D1117&label=FOLLOWERS" alt="followers"/>
 <img src="https://img.shields.io/badge/Focus-Offensive%20Security-00FF41?style=for-the-badge&labelColor=0D1117" alt="focus"/>
 
 </div>
@@ -103,7 +102,7 @@ mindset: "Think like an attacker. Document like a defender."
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ananyadwivedi115&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="github stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pandalisaa&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="github stats"/>
 <img height="170" src="https://streak-stats.demolab.com?user=ananyadwivedi115&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyadwivedi115&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=00FF41&text_color=C9D1D9" alt="top langs"/>
